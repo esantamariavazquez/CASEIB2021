@@ -13,7 +13,7 @@ clasificación de señales EEG. EN el se definen todos los parámetros de entrad
 así como los valores por defecto usados para el estudio. En la siguiente figura 
 se encuentra una representación esquemática de la arquiectura de EEG-InceptionGen
 
-![Esquema de EEG-InceptionGen](Architecture.png)
+![Esquema de EEG-InceptionGen](EEG-InceptionGen.png)
 
 
 
